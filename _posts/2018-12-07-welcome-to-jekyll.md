@@ -26,11 +26,10 @@ El mantenimiento preventivo (MP) es una estrategia de mantenimiento sencilla y p
 
 ## Software de mantenimiento preventivo
 
-Jekyll also offers powerful support for code snippets:
+Un software de mantenimiento preventivo, como el GMAO de eMaint, es una herramienta clave para alejarse del mantenimiento reactivo y de las interrupciones diarias. Con el programa adecuado, los equipos de mantenimiento pueden reducir los costes y aumentar el tiempo de actividad. El software de mantenimiento preventivo permite a los equipos de mantenimiento establecer tareas de mantenimiento preventivo basadas en el calendario y/o en los contadores para cada activo
 
 
-## section 2
-
+## Beneficios del mantenimiento preventivo
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
