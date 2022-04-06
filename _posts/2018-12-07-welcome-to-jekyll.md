@@ -28,13 +28,6 @@ El mantenimiento preventivo (MP) es una estrategia de mantenimiento sencilla y p
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
 ## section 2
 
