@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Soporte y mantenimiento en eqipos de computo
+title: Soporte y mantenimiento en equipos de computo
 email: sosaizquierdojoseluis@gmail.com
 author: GitHub User
 
