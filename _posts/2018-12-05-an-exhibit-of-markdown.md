@@ -1,11 +1,34 @@
 ---
 layout: post
-title: An exhibit of Markdown
-subtitle: Each post also has a subtitle
+title: Mantenimiento Correctivo
+subtitle: ¿Qué es el mantenimiento correctivo?
 categories: markdown
 tags: [example, markdown]
 ---
 
+<h1>¿Qué es el mantenimiento correctivo?</h1>
+
+<p>El objetivo de cualquier empresa es aumentar los niveles de productividad de las maquinarias para ofrecer productos dentro del tiempo de entrega estipulado y satisfacer a la clientela.
+
+Para que esto suceda, se debe optimizar y controlar todo el ciclo de mantenimiento. Esto con el fin de garantizar la seguridad de las infraestructuras.</p>
+
+<h2>Tipos de mantenimiento correctivo</h2>
+
+<p>También conocido como impredecible se produce cuando los equipos sufren realmente una avería que a menudo da lugar a un tiempo de inactividad.
+
+Este mantenimiento no planificado puede ser el resultado de un fallo prematuro de las piezas o de la falta de supervisión del rendimiento del equipo. De cualquier manera, tiende a ser caótico, porque los procedimientos de reparación son de emergencia.</p>
+
+<h3> Mantenimiento correctivo planificado</h3>
+
+<p><La corrección planificada, o predicha, es el tipo que se produce cuando se detecta una caída en el rendimiento de un equipo. Por lo tanto,las intervenciones no son de emergencia y pueden ser programadas.
+
+Sin embargo, mientras que la máquina funciona con un rendimiento menor, se pierde de dos maneras. En primer lugar, está la caída de la productividad debido al mal rendimiento. Y por último, la máquina en cuestión es virtualmente una bomba de tiempo, lo que significa que puede detenerse en cualquier momento.
+
+El mantenimiento correctivo planificado también puede ocurrir por elección del gerente. Después de un análisis, se concluye que operar el equipo hasta el fracaso es la mejor alternativa./p>
+
+
+
+<!--
 This note demonstrates some of what [Markdown][1] is capable of doing.
 
 ## An exhibit of Markdown
@@ -92,3 +115,4 @@ There's actually a lot more to Markdown than this. See the official [introductio
   [3]: https://www.markitdown.net/
   [4]: https://daringfireball.net/projects/markdown/basics
   [5]: https://daringfireball.net/projects/markdown/syntax
+-->
