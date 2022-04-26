@@ -1,11 +1,40 @@
 ---
 layout: post
-title: Video example
-subtitle:
+title: formateos para tu equipo de computo
+subtitle:Ventajas de formatear tu computadora
 categories: example
 tags: [video]
 ---
+<p>La palabra formatear quiere decir “dar formato a un disco”, en otras palabras, es el proceso para eliminar los datos que tiene el disco duro del ordenador</p>
 
+<h1>Por qué se debe formatear una computadora</h1>
+
+<p> Existen diferentes formas de saber si nuestra computadora tiene un problema y debe ser formateada.</p>
+
+<p>Si la computadora está más lenta de lo normal.</p>
+
+<p>Si parece haber un virus que el mismo antivirus no ha podido eliminar.</p>
+
+<p>Si el sistema del dispositivo es inestable.</p>
+
+<p>Si nuestra PC tiene poco espacio de almacenamiento y no funciona borrar archivos.</p>
+
+<p>Si la computadora funciona bien, pero queremos dejar el disco limpio.</p>
+
+<h2>Ventajas de formatear tu computadora
+</h2>
+
+<p>Se quitan todos los archivos basura de tu computadora que son difíciles de eliminar
+</p>
+
+<p>Se desinstala cualquier virus que esté en la computadora.</p>
+
+<p>Elimina errores del sistema, así el ordenador funcionará mejor.
+</p>
+
+<p>Es por esos motivos que lejos de temerle a un formateo, debemos verlo como un procedimiento muy ventajoso para tu equipo.</p>
+
+<!--
 ## Canon in D (Pachelbel's Canon) - Cello & Piano [BEST WEDDING VERSION]
 Some of you know that we occasionally play for weddings. As you can imagine, we get a LOT of requests for Canon in D, and we discovered that there were no good arrangements available anywhere for piano and cello! Hard to believe given its popularity. So we decided to make our own! We tried to stick as closely to the original as possible (which was written for three violins and basso continuo), and we performed it *not* at a snail's pace so the bride can actually make it down the aisle without putting everyone to sleep. 🙊(Yeah, we said it! Nobody likes a slow processional!) Also, the number one complaint about this piece from cellists is always how booooring it is to play because they literally have to play the same 8 bass notes over and over for the entire piece. Problem solved with this arrangement because the cello never has to play the bass! 🙌(The piano does, but we get lots of other fun stuff too so it's ok!) So for all you musicians out there playing weddings, we hope you enjoy playing this arrangement a little more than the ones you were used to...You can get it from www.musicnotes.com. 😊Be sure to let us know in the comments if you do!
 
@@ -40,4 +69,4 @@ In future, drivers will be able to choose whether they wish to be driven or do t
 ## This is the poster image
 In modern browsers, adding a video to your page is as easy as adding an image. No longer do you need to deal with special plug-ins or require crazy markup, you can do it with a single element.
 ![video](//www.html5rocks.com/en/tutorials/video/basics/devstories.webm)
-
+-->
