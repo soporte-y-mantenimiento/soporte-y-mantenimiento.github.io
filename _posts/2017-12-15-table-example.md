@@ -1,11 +1,45 @@
 ---
 layout: post
-title: Table example
-subtitle:
+title: instalacion de programas de ofice 
+subtitle:con licencia incluida 
 categories: example
 tags: [table]
 ---
+<h1>Ventajas de los programas de office</h1>
 
+<p>Puedes disponer de él en Windows o Linux, mientras el equivalente de Microsoft, sólo lo puedes tener en los Ẅindows.</p>
+
+<p>Su coste. Es gratuito, por lo que no deberás pagar por él ni por sus actualizaciones. Sólo son de pago algunas mejoras del programa.</p>
+
+<p>A día de hoy existen numerosas extensiones para aplicarlas a Openoffice.
+</p>
+
+<p>Consume muchos menos recursos que el software de Microsoft. (128 MB de RAM frente a 256 MB de Office y 300 MB de disco duro frente a 600 MB de Office).
+</p>
+
+<p>Intercambio de archivos. Openoffice posee la facilidad de guardar los documentos en formato Open o en otros formatos restrictivos propietarios como pueden ser .doc
+</p>
+
+<p>Código de fuente abierto. Ello permite que cualquier desarrollador pueda realizar modificaciones y extensiones del programa.
+</p>
+
+<h2>Aplicaciones y servicios </h2>
+
+<p> Microsoft Teams.</p>
+
+<p> Word.</p>
+
+<p> Excel.</p>
+
+<p> PowerPoint.</p>
+
+<p>Outlook. </p>
+
+<p>OneNote. </p>
+
+
+
+<!--
 ## Table example as below
 
 **For now, these extended features are provided:**
@@ -108,4 +142,4 @@ Table cell can be set alignment separately.
 |^^   C. Banana      ||   It's OK! ![example image][my-image]  |
 
 [my-image]: http://www.unexpected-vortices.com/sw/rippledoc/example-image.jpg "An exemplary image"
-
+-->
