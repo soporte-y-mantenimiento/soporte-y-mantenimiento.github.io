@@ -1,10 +1,13 @@
 ---
 layout: post
-title: formateos para tu equipo de computo
-subtitle:Ventajas de formatear tu computadora
-categories: example
-
+title:formateo de equipos de computo  
+subtitle: ¿para que sirve formatear nuestro equipo ?
+author: Jeffrey
+categories: jekyll
+tags: jekyll theme yat
+sidebar: []
 ---
+
 <p>La palabra formatear quiere decir “dar formato a un disco”, en otras palabras, es el proceso para eliminar los datos que tiene el disco duro del ordenador</p>
 
 <h1>Por qué se debe formatear una computadora</h1>
