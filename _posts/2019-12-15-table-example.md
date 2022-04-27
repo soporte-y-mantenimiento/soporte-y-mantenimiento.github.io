@@ -1,10 +1,13 @@
 ---
 layout: post
 title: instalacion de programas de ofice 
-subtitle:con licencia incluida 
+subtitle: con licencia incluida 
+author: Jeffrey
 categories: jekyll
-tags: [table]
+tags: jekyll theme yat
+sidebar: []
 ---
+
 <h1>Ventajas de los programas de office</h1>
 
 <p>Puedes disponer de él en Windows o Linux, mientras el equivalente de Microsoft, sólo lo puedes tener en los Ẅindows.</p>
