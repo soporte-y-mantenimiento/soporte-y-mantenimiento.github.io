@@ -2,7 +2,7 @@
 layout: post
 title: instalacion de programas de ofice 
 subtitle:con licencia incluida 
-categories: example
+categories: jekyll
 tags: [table]
 ---
 <h1>Ventajas de los programas de office</h1>
