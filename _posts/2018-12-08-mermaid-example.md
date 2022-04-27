@@ -1,10 +1,12 @@
 
-
 ---
 layout: post
-title: intalamos drivers, perifericos de entrada y salida
-categories: example
-tags: [mermaid]
+title: perifericos de entrada y salida
+subtitle: intalamos drivers, perifericos de entrada y salida
+author: Jeffrey
+categories: jekyll
+tags: jekyll theme yat
+sidebar: []
 ---
 
 <h1>Controladores de Entrada/Salida
