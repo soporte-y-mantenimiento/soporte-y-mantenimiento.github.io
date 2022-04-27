@@ -1,6 +1,6 @@
 ---
 layout: post
-title:formateo de equipos de computo  
+title: formateo de equipos de computo  
 subtitle: ¿para que sirve formatear nuestro equipo ?
 author: Jeffrey
 categories: jekyll
