@@ -16,11 +16,3 @@ sidebar: []
 <h2>Drivers</h2>
 
 <p>Un driver o controlador es un pequeño archivo presente en cada componente, accesorio y hardware tu ordenador. Su función es la de hacer de 'enlace' entre el sistema operativo que tienes instalado y el hardware o los periféricos instalados, tanto los internos como los externos</p>
-
-
-
-
-
-
-
-
