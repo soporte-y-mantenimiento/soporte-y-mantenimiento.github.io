@@ -1,11 +1,9 @@
 ---
 layout: post
-title: perifericos de entrada y salida
-subtitle: intalamos drivers, perifericos de entrada y salida
-author: Jeffrey
-categories: jekyll
-tags: jekyll theme yat
-sidebar: []
+title: Test markdown
+subtitle: Each post also has a subtitle
+categories: markdown
+tags: [test]
 ---
 
 <h1>Controladores de Entrada/Salida
